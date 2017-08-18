@@ -1,2 +1,1 @@
-# planktonfun blog
-an interactive html page 
+A Static HTML Page
